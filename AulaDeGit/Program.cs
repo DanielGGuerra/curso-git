@@ -8,7 +8,7 @@ namespace AulaDeGit
 		{
 			Console.WriteLine("Ola Mundo!");
 			Console.WriteLine("Bom dia");
-			Console.WriteLine("Como vc estar? ");
+			Console.WriteLine("Como vc estar hoje? ");
 
 			Console.ReadLine();
 		}
